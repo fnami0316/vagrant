@@ -1,2 +1,12 @@
-# vagrant
-node1:ansible,git   node2:devEnv by node1
+開発環境
+============
+
+
+鯖構成
+------------
+・開発＋本番環境デプロイ鯖
+・Hubot鯖(HipChat連携)
+
+
+
+
